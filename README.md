@@ -8,20 +8,20 @@ Este curso te permitirá adquirir los conocimientos fundamentales para el desarr
     * Conceptos básicos de estructuras de datos
     * Tipos de datos en Python
     * Variables y mutabilidad
-2. **[Estructuras de datos secuenciales:**
+2. **[Estructuras de datos secuenciales:](./semana-2/)**
     * Listas
     * Tuplas
     * Cadenas de caracteres
     * Operaciones sobre estructuras de datos secuenciales
-3. **[Estructuras de datos no secuenciales:**
+3. **[Estructuras de datos no secuenciales:](./semana-3/)**
     * Conjuntos
     * Diccionarios
     * Operaciones sobre estructuras de datos no secuenciales
-4. **[Tipos propios con orientación a objetos:**
+4. **[Tipos propios con orientación a objetos:](./semana-4/)**
     * Clases y objetos
     * Atributos y métodos
     * Herencia y polimorfismo
-5. **[Recursión:**
+5. **[Recursión:](./semana-5/)**
     * Concepto de recursión
     * Casos base y casos recursivos
     * Funciones recursivas en Python
@@ -60,6 +60,6 @@ Al finalizar el curso, obtendrás un certificado que acredita la realización de
 
 **Enlaces de interés:**
 
-* [https://www.coursera.org/learn/programacion-en-python-ii-aprendiendo-a-estructurar-datos](https://www.coursera.org/learn/programacion-en-python-ii-aprendiendo-a-estructurar-datos)
+* [COURSERA](https://www.coursera.org/learn/programacion-en-python-ii-aprendiendo-a-estructurar-datos)
 
 **Nota:** Este README.md se ha creado a partir de la información disponible en Internet sobre el curso "Programación en Python II: Aprendiendo a Estructurar Datos". Se recomienda consultar las fuentes originales para obtener información más detallada.
