@@ -4,24 +4,24 @@ Este curso te permitirá adquirir los conocimientos fundamentales para el desarr
 
 **Temario del curso:**
 
-1. **Introducción a las estructuras de datos en Python:**
+1. **[Introducción a las estructuras de datos en Python:](./Semana-2/)**
     * Conceptos básicos de estructuras de datos
     * Tipos de datos en Python
     * Variables y mutabilidad
-2. **Estructuras de datos secuenciales:**
+2. **[Estructuras de datos secuenciales:**
     * Listas
     * Tuplas
     * Cadenas de caracteres
     * Operaciones sobre estructuras de datos secuenciales
-3. **Estructuras de datos no secuenciales:**
+3. **[Estructuras de datos no secuenciales:**
     * Conjuntos
     * Diccionarios
     * Operaciones sobre estructuras de datos no secuenciales
-4. **Tipos propios con orientación a objetos:**
+4. **[Tipos propios con orientación a objetos:**
     * Clases y objetos
     * Atributos y métodos
     * Herencia y polimorfismo
-5. **Recursión:**
+5. **[Recursión:**
     * Concepto de recursión
     * Casos base y casos recursivos
     * Funciones recursivas en Python
